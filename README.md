@@ -4,10 +4,15 @@
 
 
 ## 配置
+
 CPU: Intel Core i5-7200U @ 4x 3.1GHz
+
 GPU: Mesa DRI Intel(R) HD Graphics 620 (Kaby Lake GT2) 
+
 RAM: 4+4GB
+
 声卡: Realtek ALC295
+
 SSD: Samgsung 256G
 
 ## 鸣谢
