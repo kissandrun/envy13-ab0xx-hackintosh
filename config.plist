@@ -300,7 +300,6 @@
 		</dict>
 		<key>SortedOrder</key>
 		<array>
-			<string>DSDT.aml</string>
 			<string>SSDT-PNLF.aml</string>
 		</array>
 	</dict>
