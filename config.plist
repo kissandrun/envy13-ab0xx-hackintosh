@@ -298,15 +298,11 @@
 			<key>NoOemTableId</key>
 			<false/>
 		</dict>
-		<key>SortedOrder</key>
-		<array>
-			<string>SSDT-PNLF.aml</string>
-		</array>
 	</dict>
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>gfxrst=1 nv_disable=1 kext-dev-mode=1 darkwake=no applbkl=0 brcmfx-country=#a brcmfx-driver=1</string>
+		<string>gfxrst=1 nv_disable=1 kext-dev-mode=1 darkwake=no applbkl=0 brcmfx-country=#a</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Legacy</key>
@@ -331,7 +327,7 @@
 			<key>Inject</key>
 			<integer>21</integer>
 			<key>ResetHDA</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>Properties</key>
 		<dict>
